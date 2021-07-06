@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LinuxMonitor</string>
+    <string name="connect">Подключиться</string>
+    <string name="address">Адрес</string>
+    <string name="port">Порт</string>
+    <string name="update">Обновить</string>
+    <string name="total">Всего памяти: </string>
+    <string name="free">Свободно: </string>
+    <string name="comm">Команда</string>
+    <string name="percent">Память,%</string>
+    <string name="linuxmonitor">LinuxMonitor</string>
+    <string name="topFive">Топ 5 процессов</string>
+</resources>
